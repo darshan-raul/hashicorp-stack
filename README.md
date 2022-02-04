@@ -1,3 +1,3 @@
 # hashicorp-stack
 
-![](./hashicorp-workflow.png)
+![workflow](./hashicorp-stack.png)
